@@ -1,0 +1,5 @@
+Hola, mi nombre es Ana.
+
+En esta práctica aprendí a crear un repositorio local con Git y a conectarlo con un repositorio remoto en GitHub.  
+
+Ahora estoy realizando un cambio para aprender a actualizar mi repositorio. 
